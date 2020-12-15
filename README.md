@@ -1,2 +1,2 @@
-# fts_exp1
-FTS para Predição de Estágios Fenológicos de Macieiras
+# FTS
+Fuzzy Time Series for prediction of phenological stages of apple trees
